@@ -3,7 +3,7 @@
 Vous avez reçu un site Web existant qui s'affiche correctement sur les **écrans de bureau**, mais qui ne s'adapte pas bien aux **appareils mobiles**. Votre tâche est d'ajouter des styles CSS pour rendre le site Web responsif et adapté aux appareils mobiles (avec un écran de maximum `768px`).
 
 1. **Analysez** la structure HTML existante et identifiez les parties du site Web qui doivent être adaptées pour les appareils mobiles.
-2. Utilisez les **media querie**s en CSS pour **définir** des styles spécifiques aux écrans de petite taille (max 768px) : 
+2. Utilisez les **media queries** en CSS pour **définir** des styles spécifiques aux écrans de petite taille (max 768px) : 
     - le titre principal doit avoir une police de 20px
     - les éléments de navigation doivent s'afficher sur une seule colonne et être centrés
 
